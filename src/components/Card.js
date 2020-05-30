@@ -19,8 +19,8 @@ const WorkCard = ({ workHeading, workSkill ,workLink}) => {
       <Flex flexDirection="row" sx={{ justifyContent: "space-between" }}>
         <Heading sx={{color:'black'}}>{workHeading}</Heading>
         <Badge sx={{ mt: "7px", mb: "7px", bg: "highlight", color: "text" }}>
-        <Link sx={{ p:[3,2,2,2], fontSize: [1, 3, 6], ":hover": { color: "black" }, color:'black ' , textDecoration:'none', fontWeight:'bold'}}
- to={workLink}>>>>>
+        <Link sx={{ p:[3,2,2,2], fontSize: [1, 3, 6], ":hover": { color: "red" }, color:'black ' , textDecoration:'none', fontWeight:'bold'}}
+ to={workLink}>clickme!
       </Link>
         </Badge>
       </Flex>

@@ -53,6 +53,15 @@ const Layout = ({ children }) => {
           to='/resume/'>
             resume
       </Link>
+      <Link sx={{ 
+        p: 2, fontSize: [1, 3, 4], 
+        ":hover": { color: "purple.9" },
+         color:'black ' , 
+         textDecoration:'none',
+          fontWeight:'bold'}}
+          to='/reflection/'>
+            reflection
+      </Link>
       </div>
     </Flex>
         <main>{children}</main>

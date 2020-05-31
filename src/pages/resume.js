@@ -46,8 +46,8 @@ const SecondPage = () => (
     <Text sx={{color:'black',fontSize:[1,2,2,2],fontFamily:'monospace', marginTop:'10px'}} ><li sx={{listStyle:'square'}}>Lifelong learning</li></Text>
 
     <Heading sx={{color:'purple.9',fontSize:[1,3,3,3],fontFamily:'monospace', marginTop:'50px'}}>Skills showcase</Heading>
-    <WorkCard workHeading='How do you build a top tier company?' workSkill='Human Resources Application' workLink='/timevalueofmoney' />
-    <WorkCard workHeading='How should you recruit ?' workSkill='Human Resources Application' workLink='/timevalueofmoney' />
+    <WorkCard workHeading='How do you evaluate and develop an employee?' workSkill='HR / Performance Evaluation and Development' workLink='/evaluation' />
+    <WorkCard workHeading='What is a PIP?' workSkill='HR / Performance Improvement Plan' workLink='/pip' />
     <WorkCard workHeading='Time Value of Money' workSkill='Python / Application Economics' workLink='/timevalueofmoney' />
     <WorkCard workHeading='Coronavirus Cases Mauritius' workSkill="Javascript NextJS React API's" workLink='/cv19' />
 

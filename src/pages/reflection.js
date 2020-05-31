@@ -36,8 +36,8 @@ const Reflection = () => (
     <Heading sx={{color:'purple.9',fontSize:[1,3,3,3],fontFamily:'monospace', marginTop:'30px'}}>Work</Heading>
     <Text sx={{color:'black',fontSize:[1,2,2,2],fontFamily:'monospace', marginTop:'10px'}} >
     Obviously i do not want to work in Agriculture or Manufacturing. I want to work in the services sector. Preferably in the private sector
-    in the Human Resources department of a Finance/Banking or Technology. There aren't many tech companies in Mauritius. But mostly what i want
-    is understand how Human Resources is used here in Mauritius and then greatly simplify it through SaaS.   
+    in the Human Resources department of a Finance/Banking or Technology company.But more importantly what i want
+    is to understand how Human Resources is used here in Mauritius and then greatly simplify it through SaaS.   
     </Text>
 
 

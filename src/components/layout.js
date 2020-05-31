@@ -65,7 +65,7 @@ const Layout = ({ children }) => {
       </div>
     </Flex>
         <main>{children}</main>
-        <footer sx={{maxWidth:['90%','90%','50%','50%'],margin:'0 auto',pt:'20px', color:'purple.9', fontWeight:700,fontSize:[2,2,3,3] }}>
+        <footer sx={{maxWidth:['90%','90%','50%','50%'],margin:'0 auto',pt:'20px', color:'purple.9', fontWeight:700,fontSize:[2,2,2,2] }}>
           <Styled.p>
            Built with
             {` `}

@@ -11,7 +11,7 @@ import Image from "../components/image"
 
 const Reflection = () => (
     <Layout>
-    <SEO title="Coronavirus Cases Mauritius - Skills" />
+    <SEO title="Reflection" />
     <Flex as='section' mx='auto' sx={{maxWidth:['97%','97%','70%','70%'], flexDirection:'column'}}  >
     <Text sx={{color:'black',fontSize:[1,2,2,2],fontFamily:'monospace', marginTop:'40px',marginBottom:'40px'}} >
      This page covers what i think are my current strengths and weaknesses and where i would ideally like to work and 

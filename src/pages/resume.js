@@ -11,8 +11,7 @@ const SecondPage = () => (
     <SEO title="Shreedhaar Ramnath - Resume" />
     <Flex as='section' mx='auto' sx={{maxWidth:['97%','97%','70%','70%'], flexDirection:'column'}}  >
     <Heading sx={{color:'purple.9',fontSize:[1,3,3,3],fontFamily:'monospace', marginTop:'50px'}}>Shreedhaar Ramnath</Heading>
-    <Text sx={{color:'black',fontSize:[1,2,2,2],fontFamily:'monospace', marginTop:'10px'}} >I do my best work in things that involve human contact. That is why i chose Human Resources. I have the skill to put myself in everybody's shoes and see things from all angles and the charisma 
-    to push everyone towards the best choice.</Text>
+    
     <Text sx={{color:'black',fontSize:[1,2,2,2],fontFamily:'monospace', marginTop:'10px'}} ><li sx={{listStyle:'square'}}>maverick1994@live.com</li></Text>
     <Heading sx={{color:'purple.9',fontSize:[1,3,3,3],fontFamily:'monospace', marginTop:'50px'}}>Education</Heading>
     <Text sx={{color:'black',fontSize:[1,2,2,2],fontFamily:'monospace', marginTop:'10px'}} ><li sx={{listStyle:'square'}}>Bcom, Management & HR at Curtin University</li></Text>
